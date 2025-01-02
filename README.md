@@ -73,16 +73,6 @@ mvn clean package
 mvn spring-boot:run
 ```
 
-### Run Tests
-```bash
-mvn test
-```
-
-### Run Tests with Coverage
-```bash
-mvn test jacoco:report
-```
-
 ## Development Setup
 
 1. Clone the repository:
