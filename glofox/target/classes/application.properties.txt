@@ -1,0 +1,2 @@
+spring.application.name=glofox
+spring.jackson.serialization.write-dates-as-timestamps=false

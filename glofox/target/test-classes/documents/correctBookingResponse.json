@@ -1,0 +1,8 @@
+{
+  "message": "Class booked successfully with the following details",
+  "data": {
+    "memberName": "John Doe",
+    "className": "Pilates",
+    "bookingDate": "2024-12-05"
+  }
+}
