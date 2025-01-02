@@ -134,9 +134,4 @@ The API returns appropriate HTTP status codes:
 - 400: Bad Request (invalid input)
 - 500: Internal Server Error
 
-Error responses include a message explaining the issue:
-```json
-{
-    "message": "Error description here"
-}
-```
+Error responses include a message explaining the issue.
